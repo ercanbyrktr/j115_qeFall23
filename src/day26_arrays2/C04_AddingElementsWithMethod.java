@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class C04_AddingElementsWithMethod {
     public static void main(String[] args) {
-        int[] testArray={5,67,89,12,4};
+        int[] testArray={5,67,89,4,12};
         int valueToAdd=100;
 
         testArray=addingNewElement(testArray,valueToAdd);
@@ -20,7 +20,7 @@ public class C04_AddingElementsWithMethod {
             newArr[i]=intArr[i];
         }
         newArr[newArr.length-1]=valueToAdd;
-        intArr=newArr;
+
 
         return intArr;
     }

@@ -2,7 +2,7 @@ package day28_MDAandList;
 
 import java.util.Arrays;
 
-public class C03_MDA_Q2 {
+public class C03_MDA_Q3 {
     public static void main(String[] args) {
         //Question 2- calculate sum of  the elements with the same index in a given 2 dimensional array and
        // assign these sums to a single-layered array that we will create.

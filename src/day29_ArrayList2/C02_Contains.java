@@ -21,6 +21,9 @@ public class C02_Contains {
         System.out.println(uniqueList.size());//4
         System.out.println(arr.length);//31
 
+        boolean bl = uniqueList.contains(7);//false
+        System.out.println(bl);
+
         System.out.println(uniqueList.contains(7));//false
         System.out.println(uniqueList.contains(5));//true
     }

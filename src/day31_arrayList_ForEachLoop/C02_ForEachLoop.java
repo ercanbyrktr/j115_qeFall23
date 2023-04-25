@@ -1,4 +1,4 @@
-package day31_ArrayList_ForEachLoop;
+package day31_arrayList_ForEachLoop;
 
 public class C02_ForEachLoop {
     public static void main(String[] args) {

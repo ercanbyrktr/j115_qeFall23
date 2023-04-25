@@ -1,4 +1,4 @@
-package day31_ArrayList_ForEachLoop;
+package day31_arrayList_ForEachLoop;
 
 import java.util.Arrays;
 

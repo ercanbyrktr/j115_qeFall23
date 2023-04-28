@@ -16,6 +16,6 @@ public class C01_MDA_Q1 {
                 }
             }
         }
-        System.out.println("number of even numbers in the arrays : "+count);
+        System.out.print("number of even numbers in the arrays : "+count);
     }
 }
